@@ -117,7 +117,7 @@ Draw a diagram of the river and factory system. Include definitions for any nota
 
 Write down a set of conditions on the removal efficiencies $E_1$, $E_2$, and $E_3$ (where the subscript corresponds to the factory where the effluent is being treated) to guarantee compliance.
 
-#### Problem 2.3 (3)
+#### Problem 1.3 (3)
 
 Without finding an "optimal" solution, reason about which factories ought to treat their effluent at a higher level than the others. This can draw on considerations such as cost, the sequencing of discharges, and the amount of CRUD discharged by each factory, or others.
 
