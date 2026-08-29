@@ -101,9 +101,9 @@ Random.seed!(1)
 
 Three factories are discharging a chemical called Chlororadiated Ureadicarboxyl (or CRUD) into the Riley River. The river inflow (where the first factory's effluent meets the river) has a volume of 500,000 m$^3$/d and a CRUD concentration of 0.2 mg/L. The river velocity is 25 km/d.
 
-* Factory 1  discharges $100,000 \text{m}^3$/\text{d} of effluent with a CRUD concentration of 10 mg/L;
-* Factory 2 (10 km downstream from Factory 1) discharges $60,000 \text{m}^3$/\text{d} of effluent with a CRUD concentration of 20 mg/L;
-* Factory 3 (15 km downstream from Factory 2) discharges $200,000 \text{m}^3$/\text{d} of effluent with a CRUD concentration of 8 mg/L.
+* Factory 1  discharges $100,000 \text{m}^3/\text{d}$ of effluent with a CRUD concentration of 10 mg/L;
+* Factory 2 (10 km downstream from Factory 1) discharges $60,000 \text{m}^3/\text{d}$ of effluent with a CRUD concentration of 20 mg/L;
+* Factory 3 (15 km downstream from Factory 2) discharges $200,000 \text{m}^3/\text{d}$ of effluent with a CRUD concentration of 8 mg/L.
 
 CRUD decays in the river with a first order reaction rate $k=0.45 \text{d}^{-1}$. 
 
